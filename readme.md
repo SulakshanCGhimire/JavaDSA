@@ -61,8 +61,9 @@ By the end of this challenge:
 ---
 
 ## 🎯 Author
-👨‍💻 Computer Engineering student with passion for **Java & DSA**  
-📚 Preparing for **coding interviews** and building **problem-solving skills**  
+**Sulakshan Chandra Ghimire**  
+[GitHub Profile](https://github.com/SulakshanCGhimire)
+
 
 ---
 
